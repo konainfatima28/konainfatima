@@ -85,8 +85,8 @@ Data Engineering        ████████████░░░░░░�
 
 <div align="center">
 
-![Konain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=konainfatima28&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konainfatima28&layout=compact&theme=default&hide_border=true)
+![Konain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=konainfatima28&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konainfatima28&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
