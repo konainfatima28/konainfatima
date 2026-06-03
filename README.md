@@ -12,7 +12,7 @@
 
 ---
 
-Final-year B.Tech CSE (AI/ML) student building **production-grade agentic AI systems** — specializing in multi-agent pipelines, RAG architectures, and LLM orchestration over complex real-world documents. My current flagship project processes 50–80+ page medical PDFs with full table, chart, and image understanding using a custom LangGraph-style ReAct loop.
+Final-year B.Tech CSE (AI/ML) student building **production-grade agentic AI systems** — specializing in multi-agent pipelines, RAG architectures, and LLM orchestration over complex real-world documents. My current flagship project processes hundered's of pages medical PDFs with full table, chart, and image understanding using a custom LangGraph-style ReAct loop.
 
 I gravitate toward tools that feel *surprisingly capable* — systems that do far more than they appear to at first glance.
 
